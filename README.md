@@ -1,3 +1,3 @@
-# na_hahhahah_uuaahhh
-idk and idc
-HTML stuff
+# HTML-practose
+this is where i learn HTML
+2026
